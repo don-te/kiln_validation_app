@@ -1,0 +1,3 @@
+__pycache__/
+*.log
+temporal_validation_results.json*
